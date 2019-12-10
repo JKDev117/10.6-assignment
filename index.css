@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+form {
+    margin-top: 1.5em;
+    padding-bottom: 2em;
+}
+
+.hide {
+    display: none;
+}
+
+input {
+    text-align: center;
+    margin: 5px;
+}
+
+header {
+    margin-bottom: 1.5em;
+}
+
+p {
+    display: inline-block;
+}
+
+
+
